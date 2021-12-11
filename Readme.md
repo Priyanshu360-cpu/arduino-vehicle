@@ -29,4 +29,7 @@ I made this bluetooth Arduino driven car as my project in class 11 so I thought 
 <img src="https://cdn.discordapp.com/attachments/907528094246662164/919215094590763058/bluetooth_car_circuit2.jpg">
 
 # My Project 
+**Part 1**
 <img src ="https://media.discordapp.net/attachments/732683540143013948/755419301397135440/Screenshot_20200915-185604__01.jpg">
+**Part 2**
+<img src ="https://media.discordapp.net/attachments/732683540143013948/755419899177992262/Screenshot_20200915-1857372.jpg">
