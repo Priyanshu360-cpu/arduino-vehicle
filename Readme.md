@@ -15,7 +15,9 @@ I made this bluetooth Arduino driven car as my project in class 11 so I thought 
 
 •Male and Female Jump wires 
 
-•Elecrtric Wires 
+•Elecrtric Wires
+
+•Switch for controlling flow 
 
 •Usb cable for transferring Code 
 ```
