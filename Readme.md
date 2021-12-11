@@ -9,7 +9,7 @@ I made this bluetooth Arduino driven car as my project in class 11 so I thought 
 
 •Bluetooth Module
 
-•Adruino Board
+•Arduino Board
 
 •Batteries to give power
 
@@ -21,7 +21,7 @@ I made this bluetooth Arduino driven car as my project in class 11 so I thought 
 ```
 **Software Required**
 ```
-•Adruino Ide (strictly)
+•Arduino Ide (strictly)
 
 •Cpp drivers 
  
