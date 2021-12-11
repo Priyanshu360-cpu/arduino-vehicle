@@ -1,5 +1,5 @@
 # Bluetooth Car
-I made this bluetooth Arduino driven car as my project in class 11 so I thought it sharing with you guys 😄
+I made this bluetooth Arduino driven car as my project in class 11 so I thought it of sharing with you guys 😄
 # Components 
 **Hardware Required** 
 ```
