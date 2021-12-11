@@ -23,7 +23,9 @@ I made this bluetooth Arduino driven car as my project in class 11 so I thought 
 ```
 •Adruino Ide (strictly)
 
-•Cpp drivers
+•Cpp drivers 
+ 
+•An App to connect to Your bluetooth.
 ```
 # Circuit Diagram
 <img src="https://cdn.discordapp.com/attachments/907528094246662164/919215094590763058/bluetooth_car_circuit2.jpg">
